@@ -1,0 +1,4 @@
+interface:
+  display_name: "ELI5"
+  short_description: "Explain complex text in clear, simple language"
+  default_prompt: "Explain this like I am five while preserving the important meaning."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Cloud Ready"
+  short_description: "Prepare a repository for laptop-independent Codex work"
+  default_prompt: "Use $codex-cloud-ready to prepare this project's selected workflow for Codex Cloud, verify safe local checks, and report what still needs cloud verification."

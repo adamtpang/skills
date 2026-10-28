@@ -1,0 +1,7 @@
+interface:
+  display_name: "Easy"
+  short_description: "Simplify work into fast feedback."
+  default_prompt: "Use $easy to simplify this into the easiest real next move."
+
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Less Wrong"
+  short_description: "Calibrate beliefs with evidence and falsifiers"
+  default_prompt: "Use $less-wrong to identify the decisive assumptions and design a falsifiable next test."

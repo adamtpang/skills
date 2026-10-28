@@ -1,0 +1,4 @@
+interface:
+  display_name: "Problem Prioritize List"
+  short_description: "Rank solvable problems by impact and urgency"
+  default_prompt: "Use $problem-prioritize-list to rank all solvable problems and propose the next actions."

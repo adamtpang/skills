@@ -1,0 +1,4 @@
+interface:
+  display_name: "Signal Over Noise"
+  short_description: "Separate outcome-producing work from noise"
+  default_prompt: "Use $signal-over-noise to audit this portfolio and reallocate effort toward measured outcomes."

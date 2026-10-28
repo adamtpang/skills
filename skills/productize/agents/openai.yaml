@@ -1,0 +1,4 @@
+interface:
+  display_name: "Productize"
+  short_description: "Define a sellable offer and test its delivery"
+  default_prompt: "Use $productize on this project to define a customer offer, verify a bounded delivery proof, and identify the next demand test."

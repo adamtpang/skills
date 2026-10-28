@@ -1,0 +1,4 @@
+interface:
+  display_name: "Server Recovery"
+  short_description: "Restore and verify a local development server"
+  default_prompt: "Use $server to get this project's local server back up, verify it over HTTP, and report the working URL."

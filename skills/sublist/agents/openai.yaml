@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sublist"
+  short_description: "Expand the next open checklist item"
+  default_prompt: "Use $sublist to expand the next open item in this checklist."

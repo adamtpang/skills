@@ -1,0 +1,8 @@
+interface:
+  display_name: "ASAP"
+  short_description: "Move fast with focused feedback."
+  brand_color: "#F5B21A"
+  default_prompt: "Use $asap to turn this into a simple ASAP success checklist."
+
+policy:
+  allow_implicit_invocation: true

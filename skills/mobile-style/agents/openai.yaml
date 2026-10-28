@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mobile Style"
+  short_description: "Responsive mobile-app interface patterns"
+  default_prompt: "Use $mobile-style to refactor this interface into a responsive mobile-style master-detail experience."

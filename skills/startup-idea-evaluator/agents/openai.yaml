@@ -1,0 +1,4 @@
+interface:
+  display_name: "Startup Idea Evaluator"
+  short_description: "Score startup ideas using evidence and founder fit."
+  default_prompt: "Evaluate this startup idea as a good quest: [idea]"

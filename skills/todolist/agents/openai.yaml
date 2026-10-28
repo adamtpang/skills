@@ -1,0 +1,4 @@
+interface:
+  display_name: "Todo List"
+  short_description: "Turn a project into a simple checklist"
+  default_prompt: "Use $todolist to turn this project into a simple actionable checklist."

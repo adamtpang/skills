@@ -1,0 +1,4 @@
+interface:
+  display_name: "Roadmap"
+  short_description: "Create evidence-based roadmaps with milestones and ETA ranges"
+  default_prompt: "Create or refresh roadmap.md for this project. Compare the verified current state with a finite perfect version, then sequence milestones, dependencies, completion criteria, task ETA ranges, risks, and the overall time to useful, excellent, and perfect."

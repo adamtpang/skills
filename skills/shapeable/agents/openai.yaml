@@ -1,0 +1,4 @@
+interface:
+  display_name: "Shapeable"
+  short_description: "Evidence-backed design and UX cure loop"
+  default_prompt: "Use $shapeable to audit this authorized interface and produce an evidence-backed cure."

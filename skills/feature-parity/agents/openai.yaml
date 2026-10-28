@@ -1,0 +1,4 @@
+interface:
+  display_name: "Feature Parity"
+  short_description: "Research leading peers and close selected capability gaps"
+  default_prompt: "Use $feature-parity to research the strongest peers, ask me to confirm a parity target, then close the highest-value capability gaps."

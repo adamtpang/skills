@@ -1,0 +1,4 @@
+interface:
+  display_name: "Good Enough"
+  short_description: "Recognize when work meets the real bar"
+  default_prompt: "Use $good-enough to decide whether this is ready to stop iterating and move forward."

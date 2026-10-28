@@ -1,0 +1,6 @@
+interface:
+  display_name: "Lulie Untangle"
+  short_description: "Resolve inner conflict and find a willing next move"
+  default_prompt: "Use $lulie-untangle to explore something I want to do but don't want to do, and help me find an appealing way forward."
+policy:
+  allow_implicit_invocation: true

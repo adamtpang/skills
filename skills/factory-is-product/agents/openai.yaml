@@ -1,0 +1,4 @@
+interface:
+  display_name: "Factory Is Product"
+  short_description: "Design the system that repeatedly ships output"
+  default_prompt: "Use $factory-is-product to redesign this delivery system for repeatable quality and throughput."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Platonic Ideal"
+  short_description: "Derive the simplest inevitable version of a project"
+  default_prompt: "Use $platonic-ideal to derive the hard-to-vary perfect form of this project and delete everything that does not belong."

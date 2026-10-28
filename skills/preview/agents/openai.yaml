@@ -1,0 +1,4 @@
+interface:
+  display_name: "Preview"
+  short_description: "Open and verify a local site preview"
+  default_prompt: "Use $preview to start this project locally and open its live preview."

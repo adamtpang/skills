@@ -1,0 +1,4 @@
+interface:
+  display_name: "Checklist Manifesto"
+  short_description: "Turn plans into doctrine and an action checklist"
+  default_prompt: "Use $checklist-manifesto to turn this plan into a concise operating doctrine and dependency-ordered checklist without dates."

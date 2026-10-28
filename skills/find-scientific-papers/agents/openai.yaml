@@ -1,0 +1,4 @@
+interface:
+  display_name: "Find Scientific Papers"
+  short_description: "Research evidence for the situation in this chat"
+  default_prompt: "Use $find-scientific-papers to find and critically assess research relevant to my current situation, then explain the practical implications and uncertainties."

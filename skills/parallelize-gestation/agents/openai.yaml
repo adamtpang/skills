@@ -1,0 +1,4 @@
+interface:
+  display_name: "Parallelize Gestation"
+  short_description: "Start long-latency work in parallel safely"
+  default_prompt: "Use $parallelize-gestation to remove false sequencing and shorten this calendar timeline."

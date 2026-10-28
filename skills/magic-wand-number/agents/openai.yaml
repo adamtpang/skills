@@ -1,0 +1,4 @@
+interface:
+  display_name: "Magic Wand Number"
+  short_description: "Size the gap to a theoretical best case"
+  default_prompt: "Use $magic-wand-number to calculate the defensible theoretical limit and improvement headroom."

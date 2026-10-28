@@ -1,0 +1,4 @@
+interface:
+  display_name: "Sequenced Strategy"
+  short_description: "Sequence premium proof into scalable products"
+  default_prompt: "Use $sequenced-strategy to design a first rung that proves demand and funds the next capability."

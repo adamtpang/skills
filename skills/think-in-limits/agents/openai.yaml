@@ -1,0 +1,4 @@
+interface:
+  display_name: "Think In Limits"
+  short_description: "Stress-test assumptions at extreme scale"
+  default_prompt: "Use $think-in-limits to expose the breakpoints and false constraints in this system."

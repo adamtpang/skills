@@ -1,0 +1,4 @@
+interface:
+  display_name: "Idiot Index"
+  short_description: "Find costly gaps between inputs and finished cost"
+  default_prompt: "Use $idiot-index to decompose this cost and identify the largest avoidable gap."

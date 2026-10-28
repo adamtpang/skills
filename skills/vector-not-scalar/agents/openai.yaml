@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vector Not Scalar"
+  short_description: "Redirect effort toward the actual destination"
+  default_prompt: "Use $vector-not-scalar to determine whether this work is moving quickly in the right direction."

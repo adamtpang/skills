@@ -1,0 +1,4 @@
+interface:
+  display_name: "Mammoth Ambitious Boldness"
+  short_description: "Push a project to its most ambitious credible extremes"
+  default_prompt: "Use $mammoth-ambitious-boldness to explore how far this project could go and identify the first decisive experiment."
